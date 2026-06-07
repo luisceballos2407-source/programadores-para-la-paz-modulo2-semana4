@@ -1,0 +1,10 @@
+Las comunidades e iniciativas ciudadanas fortalecen su autonomía cuando pueden construir sus propias herramientas tecnológicas
+utilizando tecnologías abiertas como Node.js. Esto les permite crear soluciones adaptadas a sus necesidades reales, 
+sin depender completamente de grandes empresas o plataformas privadas. Además, fomenta la participación activa de las personas 
+en la transformación digital de sus territorios. Las tecnologías abiertas facilitan el acceso al conocimiento, el aprendizaje colaborativo
+y el intercambio de experiencias entre desarrolladores y ciudadanos. También promueven la innovación, ya que cualquier persona puede mejorar 
+o adaptar las herramientas existentes. De esta manera, se reducen costos y se generan oportunidades para que más personas participen en proyectos
+tecnológicos. Construir herramientas propias fortalece la soberanía tecnológica de las comunidades y les brinda mayor control sobre sus datos y procesos.
+Asimismo, impulsa el trabajo en equipo y la solución colectiva de problemas. 
+En un mundo cada vez más digital, el uso de tecnologías abiertas representa una oportunidad para crear desarrollo, 
+inclusión y bienestar desde las propias comunidades
